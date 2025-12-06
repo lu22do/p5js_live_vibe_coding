@@ -1,0 +1,21 @@
+{
+  "name": "ai-p5js-generator",
+  "version": "1.0.0",
+  "description": "AI-powered p5.js code generator with Gemini",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "p5.js",
+    "ai",
+    "gemini",
+    "creative-coding"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^12.6.0"
+  }
+}
